@@ -1,4 +1,6 @@
 # idpay_payment_package
+[![pub package](https://img.shields.io/pub/v/rounded_loading_button.svg)](https://pub.dev/packages/easy_animated_tabbar)
+[![style: effective dart](https://img.shields.io/badge/style-effective_dart-40c4ff.svg)](https://pub.dev/packages/effective_dart)
 
 A package for making payment with id pay easy
 
