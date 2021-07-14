@@ -4,6 +4,10 @@
 
 A package for making payment with id pay easy
 
+## For getting the package you should add:
+```
+idpay_payment_package: 0.0.1
+```
 ## Getting Started With Making A Payment Request:
 ```
 PaymentRequest request = PaymentRequest(
